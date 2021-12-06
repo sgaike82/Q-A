@@ -1,0 +1,11 @@
+#class{
+	color:red;
+}
+#firstdiv{
+	display: inline-block;
+}
+.qus {
+	width:350px;
+	height:100px;
+	font-size:20px;
+}

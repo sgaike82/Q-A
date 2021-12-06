@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<title >   Welcome to <mark>Problem share Problem solved </mark>   </title>
+</head>
+<body>
+   		 <div align="center">
+		<br>
+		<h1>Welcome to Problem share Problem solved</h1>
+		</div>
+		
+		  			<div align="left">
+		  			<strong>Ask your question  :</strong> <input type=text>
+		  			</div>
+
+</body>
+</html>

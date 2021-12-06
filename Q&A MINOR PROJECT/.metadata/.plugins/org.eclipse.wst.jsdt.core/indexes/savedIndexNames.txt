@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\sagar\Q&A MINOR PROJECT\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3359011214.index
+1571374431.index
+3569856736.index
+3162741553.index
+3587760319.index
+1563073285.index
+2605465869.index

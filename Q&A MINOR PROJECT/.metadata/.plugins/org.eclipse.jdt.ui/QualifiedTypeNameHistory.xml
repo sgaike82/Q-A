@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.Intutech.bean.Soure"/>
+    <fullyQualifiedTypeName name="org.Intutech.bean.Contact"/>
+    <fullyQualifiedTypeName name="org.Intutech.model.QAModel"/>
+    <fullyQualifiedTypeName name="org.Intutech.DbUtil.Dbutil"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+</qualifiedTypeNameHistroy>

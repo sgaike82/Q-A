@@ -1,0 +1,7 @@
+#class{
+	color:red;
+}
+.qus {
+	width:350px;
+	height:100px;
+}
